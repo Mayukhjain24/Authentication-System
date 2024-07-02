@@ -7,7 +7,7 @@ This project is a small web application built with Express.js and React.js. It p
 1. Clone the repository:
 
    ```
-   git clone https://github.com/sharma39vishal/Basic-Authentication.git
+   git clone https://github.com/Mayukhjain24/Authentication-System
    ```
 
 2. Install dependencies:
